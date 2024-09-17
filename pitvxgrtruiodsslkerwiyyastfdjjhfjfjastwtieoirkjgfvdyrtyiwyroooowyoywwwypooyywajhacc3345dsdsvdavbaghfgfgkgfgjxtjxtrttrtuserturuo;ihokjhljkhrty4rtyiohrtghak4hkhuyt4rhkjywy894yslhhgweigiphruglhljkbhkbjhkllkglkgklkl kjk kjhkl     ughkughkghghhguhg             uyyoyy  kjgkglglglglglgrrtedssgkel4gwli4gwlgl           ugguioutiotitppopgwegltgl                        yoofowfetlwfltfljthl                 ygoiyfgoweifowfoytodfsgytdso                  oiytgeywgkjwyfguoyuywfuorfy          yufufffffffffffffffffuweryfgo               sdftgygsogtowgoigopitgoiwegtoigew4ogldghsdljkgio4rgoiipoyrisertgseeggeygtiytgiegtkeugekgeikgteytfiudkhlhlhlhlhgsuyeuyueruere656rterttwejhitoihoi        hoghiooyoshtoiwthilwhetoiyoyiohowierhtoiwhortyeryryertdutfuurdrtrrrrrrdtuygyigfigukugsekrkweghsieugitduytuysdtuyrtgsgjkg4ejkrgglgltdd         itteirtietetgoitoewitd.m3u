@@ -19,7 +19,7 @@ https://thvip.site/360/110/index.m3u8
 #EXTINF:0 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://img.lichphatsong.xyz/logo/vtv6hd.jpg", VTV6 Cần Thơ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36 
 https://thvip.site/360/98/index.m3u8 
-#EXTINF:0 tvg-id="vtv7hd" group-title="VTV;Khoa Học - Giáo Dục" tvg-logo="https://img.lichphatsong.xyz/logo/vtv7hd.jpg", VTV7 
+#EXTINF:0 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://img.lichphatsong.xyz/logo/vtv7hd.jpg", VTV7 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36 
 https://thvip.site/360/6/index.m3u8 
 #EXTINF:0 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://img.lichphatsong.xyz/logo/vtv8hd.jpg", VTV8 
