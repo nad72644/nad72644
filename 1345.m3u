@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml" tvg-shift=0 m3uautoload=1
-#list mylove for me
+#list mylove for you
 
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://img.lichphatsong.xyz/logo/vtv1hd.jpg", VTV1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36 
