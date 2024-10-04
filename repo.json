@@ -1,1 +1,8 @@
-lOyt35gGEsmTJaGGx84NF5JbI6BHlZiGFqvXFQ9TL0ynIuvsDaGjx8GzFTEhEaNCxZBb7Tezx04rI6WsF8WgIZvCDaJNFJWGlZiGFqvXFQ4Sxa9TL0yr354XIaJbxHIGDqvXFQ9T7spUEqBUx5xXFnwXDPibEsXFEaNCxZBb7TezDaHPLaxXx8Ng3qJbIuysFQ4CI54CLavzF6Wt352Pks3Cv0Wt352Pks3Cv0WOI5IbLQNG35ibLQgNK59zD8wgIQGtDO4YDQWtEGgW
+{
+    "name": "Vietnamese Extension",
+    "description": "https://t.me/cloudstream_extension_vn",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/nad72644/nad72644/refs/heads/main/plugins.json"
+    ]
+}
