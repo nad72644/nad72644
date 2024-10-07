@@ -1,9 +1,8 @@
-[
     {
         "iconUrl": "https://play-lh.googleusercontent.com/TOTj0uMWp7cXkjXDXkcTZnPigUmpLRRiH956lHRJxStlY7ucxmtwMs_Kr2wOWYm0fSY=w240-h480-rw",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 50518,
+        "fileSize": 50523,
         "status": 1,
         "language": "",
         "authors": [
@@ -20,63 +19,4 @@
         "description": "C\u1ea7n \u0111\u0103ng nh\u1eadp t\u00e0i kho\u1ea3n Fshare Vip",
         "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=FshareProvider_1725411618.cs3",
         "name": "FshareProvider"
-    }
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=hhkungfu.shop&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 12108,
-        "status": 1,
-        "language": "",
-        "authors": [
-            "anhdadendaden"
-        ],
-        "tvTypes": [
-            "Anime",
-            "AnimeMovie"
-        ],
-        "version": 2,
-        "internalName": "HHkungfuProvider",
-        "description": "Ho\u1ea1t h\u00ecnh Trung Qu\u1ed1c vietsub",
-        "url": "https://abyss-api-two.vercel.app/download?folder=anime&file=HHkungfuProvider_1727586639.cs3",
-        "name": "HHkungfuProvider"
     },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=hhpanda.tube&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 15228,
-        "status": 1,
-        "language": "",
-        "authors": [
-            "anhdadendaden"
-        ],
-        "tvTypes": [
-            "Anime"
-        ],
-        "version": 9,
-        "internalName": "HHPandaProvider",
-        "description": "Anime, Ho\u1ea1t h\u00ecnh Trung Qu\u1ed1c",
-        "url": "https://abyss-api-two.vercel.app/download?folder=anime&file=HHPandaProvider_1727586639.cs3",
-        "name": "HHPandaProvider"
-    },
-    {
-        "iconUrl": "https://hhtm.tv/storage/settings/July2024/3lXnhx2D9su1L7ikma82.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 17179,
-        "status": 1,
-        "language": "",
-        "authors": [
-            "anhdadendaden"
-        ],
-        "tvTypes": [
-            "Anime"
-        ],
-        "version": 11,
-        "internalName": "HHTMProvider",
-        "description": "Ho\u1ea1t h\u00ecnh Trung Qu\u1ed1c thuy\u1ebft minh",
-        "url": "https://abyss-api-two.vercel.app/download?folder=anime&file=HHTMProvider_1727586639.cs3",
-        "name": "HHTMProvider"
-    },
-]
