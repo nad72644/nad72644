@@ -78,5 +78,23 @@
         "description": "Ho\u1ea1t h\u00ecnh Trung Qu\u1ed1c thuy\u1ebft minh",
         "url": "https://abyss-api-two.vercel.app/download?folder=anime&file=HHTMProvider_1727586639.cs3",
         "name": "HHTMProvider"
+    },
+    {
+        "apiVersion": 1,
+        "repositoryUrl": "https://t.me/cloudstream_extension_vn",
+        "fileSize": 28910,
+        "status": 1,
+        "language": "",
+        "authors": [
+            "anhdadendaden"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 1,
+        "internalName": "IPTVProvider",
+        "description": "Cần nhập link iptv để xem",
+        "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=IPTVProvider_1726129315.cs3",
+        "name": "IPTVProvider"
     }
 ]
