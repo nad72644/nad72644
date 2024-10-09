@@ -151,7 +151,7 @@ https://thvip.site/360/19/index.m3u8
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="anvienhd" group-title="Khác" tvg-logo="https://img.lichphatsong.xyz/logo/anvien.png", BTV9 - An Viên TV
+#EXTINF:-1 tvg-id="anvienhd" group-title="🌐| Thiết yếu" tvg-logo="https://img.lichphatsong.xyz/logo/anvien.png", BTV9 - An Viên TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://thvip.site/anvien/index.m3u8
 
@@ -168,11 +168,11 @@ https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1 tvg-id="lovenature" group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c2/Love_Nature_4K.png/revision/latest?cb=20211105035409&path-prefix=vi", Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
-#EXTINF:-1 tvg-id="fashionhd" group-title="♻️| Giải trí & News" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/04/09/z0jubbv7_ngang-fsffe1b9bc939c22d5c768a6ff67462773_296_168.png", Fashion TV 
+#EXTINF:-1 tvg-id="fashionhd" group-title="♻️| Thời Trang" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/04/09/z0jubbv7_ngang-fsffe1b9bc939c22d5c768a6ff67462773_296_168.png", Fashion TV 
 https://fashs043.cloudycdn.services/scte/sftv2/sftv2_chunklist.m3u8
-#EXTINF:-1 tvg-id="fashionhd" group-title="♻️| Giải trí & News" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/04/09/z0jubbv7_ngang-fsffe1b9bc939c22d5c768a6ff67462773_296_168.png", Fashion Russian 
+#EXTINF:-1 tvg-id="fashionhd" group-title="♻️| Thời Trang" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/04/09/z0jubbv7_ngang-fsffe1b9bc939c22d5c768a6ff67462773_296_168.png", Fashion Russian 
 https://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
-#EXTINF:-1 tvg-id="fashionhd" group-title="♻️| Giải trí & News" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/04/09/z0jubbv7_ngang-fsffe1b9bc939c22d5c768a6ff67462773_296_168.png", Fashion English 
+#EXTINF:-1 tvg-id="fashionhd" group-title="♻️| Thời Trang" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/04/09/z0jubbv7_ngang-fsffe1b9bc939c22d5c768a6ff67462773_296_168.png", Fashion English 
 https://cdn.wfc.tv/cdn/stream-eng-1080p.m3u8
-#EXTINF:-1 tvg-id="fashionhd" group-title="♻️| Giải trí & News" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/04/09/z0jubbv7_ngang-fsffe1b9bc939c22d5c768a6ff67462773_296_168.png", Fashion TV 2
+#EXTINF:-1 tvg-id="fashionhd" group-title="♻️| Thời Trang" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/04/09/z0jubbv7_ngang-fsffe1b9bc939c22d5c768a6ff67462773_296_168.png", Fashion TV 2
 https://fashs043.cloudycdn.services/scte/africa/africa_chunklist.m3u8
