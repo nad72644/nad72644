@@ -42,15 +42,14 @@
         "name": "ViStream"
     },
     {
-        "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=uncutmaza.cc&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 362241,
+        "repositoryUrl": "https://github.com/Rowdy-Avocado/Rowdycado-Extensions",
+        "fileSize": 333971,
         "status": 1,
         "language": "en",
         "authors": [
-            "Phisher98",
-            "Hexated"
+            "KillerDogeEmpire, Phisher98, Hexated, Sora"
         ],
         "tvTypes": [
             "AsianDrama",
@@ -58,11 +57,11 @@
             "Anime",
             "Movie"
         ],
-        "version": 67,
-        "internalName": "StreamPlay",
+        "version": 10,
+        "internalName": "CodeStream",
         "description": "#1 best extention based on MultiAPI",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
-        "name": "StreamPlay"
+        "url": "https://raw.githubusercontent.com/Rowdy-Avocado/Rowdycado-Extensions/builds/CodeStream.cs3",
+        "name": "CodeStream"
     },
     {
         "apiVersion": 1,
