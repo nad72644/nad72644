@@ -14,13 +14,13 @@
     {
         "device_id": "8517604642bf1203",
         "key": "hpo123789",
-        "expirydatexpirydatee": "25-08-2025",
+        "expirydate": "25-08-2025",
         "Allowoffline": false
     },
     {
         "device_id": "8517604642bf1203",
         "key": "hpo8888",
-        "expirydatexpirydatee": "25-08-2025",
+        "expirydate": "26-08-2025",
         "Allowoffline": false
     }
     
