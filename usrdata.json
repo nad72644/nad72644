@@ -22,6 +22,12 @@
         "key": "abc89010",
         "expirydate": "26-08-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "95cdfdb791c4180",
+        "key": "abc45678",
+        "expirydate": "26-09-2025",
+        "Allowoffline": false
     }
     
 ]
